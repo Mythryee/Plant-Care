@@ -32,14 +32,14 @@
         <div class="section-1">
             <h1>Plant Information And Care Tips</h1>
             <p>Are you curious about any plant and how to care for it? Look no further! Our website is your one-stop resource for all things plant care. Whether you’re looking to learn about specific plants, their care needs, or how to help them thrive, we’ve got you covered.</p>
-            <button class="joinbtn">Click Here</button>
+            <a href="http://localhost/MiniProject/plantcare.php"><button class="joinbtn">Click Here</button></a>
         </div>        
     </section>
     <section class="secondary-section">
         <div class="section-2">
             <h1>Your Ultimate Plant Care Guide! </h1>
             <p>Are you a plant lover but often forget when to water, fertilize, or repot your beloved greenery? We’re here to help! Our platform provides easy-to-use plant care reminders tailored specifically to your plants' needs. Whether you’re a seasoned gardener or a budding enthusiast, our goal is to ensure your plants thrive.</p>
-            <button class="joinbtn">Click Here</button>
+            <a href="http://localhost/MiniProject/reminders.php"><button class="joinbtn">Click Here</button></a>
         </div>        
     </section>
     
