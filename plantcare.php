@@ -12,6 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plant Grow Guidde</title>
     <link rel="stylesheet" href="basics.css">
+    <link rel="stylesheet" href="care.css">
 </head>
 <body>
     <nav id="navbar">
@@ -28,8 +29,81 @@
         <span></span>
     </div>
     </nav>
+    <div id="searchsection">
+        <h1>Search for plant information</h1> 
+        <form action="" method="post">
+            <input type="search" name="searchbox" id="searchbox" placeholder="Search for any plant">
+            <input type="submit" id="sbutton">
+            <div class="card">
+                <img src="" alt="">
+                <h3>Name : </h3>
+                <div> Scientific name: </div>
+                <div>Water :</div>
+                <div>Description :</div>
+            </div>
+        </form>
+    </div>
 
-    <h1>Plant Information & API Integration Page</h1> <!-- You can remove only this line -->
+    <h1>You also like....</h1>
+    <div class="plantcards">
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        <div class="card">
+            <img src="" alt="">
+            <h3>Name : </h3>
+            <div> Scientific name: </div>
+            <div>Water :</div>
+            <div>Description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, atque dolore! Eveniet eius reprehenderit assumenda ab voluptatum tempore, autem nihil!</div>
+        </div>
+        
+    </div>
     
     <script>
         let a = document.getElementById('homeimg');
