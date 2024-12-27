@@ -57,8 +57,8 @@
             border: 2px solid;
             display: block;
             margin-left: auto;
-            margin-top: 200px;
-            margin-right: 140px;
+            margin-top: 150px;
+            margin-right: 100px;
             text-align: center;
             border-radius: 12px;
             border: 6px solid;
@@ -77,15 +77,14 @@
             border-radius: 12px;
             color: green;
             border: 2px solid;
-            background-color: black;
         }
         a {
-            color: white;
+            color: green;
         }
         body::before {
             content: "";
             position: absolute;
-            background: url(hplant.jpg) no-repeat center center/cover;
+            background: url(screen.jpg) no-repeat center center/cover;
             top: 0;
             bottom: 0;
             height: 100%;

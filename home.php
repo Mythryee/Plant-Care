@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plant Grow Guidde</title>
-    <link rel="stylesheet" href="basics.css">
+    <link rel="stylesheet" href="basic.css">
 </head>
 <body>
     <nav id="navbar">
